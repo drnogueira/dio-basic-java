@@ -60,7 +60,7 @@ To run the project, ensure you have:
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/drnogueira/SmartTVSystem.git
+   git clone https://github.com/drnogueira/Java_OOP_Basics/SmartTVSystem.git
    ```
 
 2. Open the project in your IDE.
